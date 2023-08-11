@@ -1,8 +1,8 @@
-### Olá! Eu sou Hadassa Kiria! 👋
+## Olá! Eu sou Hadassa Kiria! 👋
 
-#### Sou uma estudante de Sistemas de Informação e minha fascinação pela tecnologia cresce a cada dia!
+### Sou uma estudante de Sistemas de Informação e minha fascinação pela tecnologia cresce a cada dia!
 
-### Seja Bem-vindo!
+## Seja Bem-vindo!
 
 ![Hadassa Kiria GitHub stats](https://github-readme-stats.vercel.app/api?username=HadassaKiria&show_icons=true&theme=dracula)
 
