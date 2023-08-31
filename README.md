@@ -15,7 +15,16 @@
     <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-## My social networks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadassa-kiria-5b4564236/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hadassa.kiria/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hadassakiria99@gmail.com)
+## My Social Networks
+<div> 
+  <a href="https://www.instagram.com/hadassa.kiria" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hadassakiria99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hadassa-kiria-5b4564236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+    
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+    <img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif" alt="GIF" width="150" height="150" style="float: right;", align="right">    
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jve00}/count.svg" /></p> 
+<br>
+</div>
