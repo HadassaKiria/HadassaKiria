@@ -2,17 +2,19 @@
 
 ### Sou uma estudante de Sistemas de Informação e minha fascinação pela tecnologia cresce a cada dia!
 
-## Seja Bem-vindo!
+## Seja Bem-vindo(a)!
 
 ![Hadassa Kiria GitHub stats](https://github-readme-stats.vercel.app/api?username=HadassaKiria&show_icons=true&theme=dracula)
 
 ## My Skills
-<div style="display: inline_block">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img align="center" alt="VS Code" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-    <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Rafa-Ts" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Rafa-Python" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
 </div>
 
 ## My Social Networks
@@ -24,7 +26,7 @@
     
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-    <img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif" alt="GIF" width="150" height="150" style="float: right;", align="right">    
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jve00}/count.svg" /></p> 
+    <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-mouse-de-computador-0.gif" alt="GIF" width="150" height="100" style="float: right;", align="right">    
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HadassaKiria}/count.svg" /></p> 
 <br>
 </div>
