@@ -26,7 +26,7 @@
     
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-    <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-mouse-de-computador-0.gif" alt="GIF" width="150" height="100" style="float: right;", align="right">    
+    <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-mouse-de-computador-0.gif" alt="GIF" width="200" height="150" style="float: right;", align="right">    
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HadassaKiria}/count.svg" /></p> 
 <br>
 </div>
