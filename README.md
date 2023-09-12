@@ -1,5 +1,11 @@
 ## Olá! Eu sou Hadassa Kiria! 👋
 
+<div align="center">
+<br><p align="centre"><b></b></p>  
+    <img src="https://media4.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif?cid=ecf05e472103uwsyi8kt2uw92vu9ss70up02ye34xboc6uip&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="170" height="140" style="float: left;", align="left">
+<br>
+</div>
+
 ### Sou uma estudante de Sistemas de Informação e minha fascinação pela tecnologia cresce a cada dia!
 
 ## Seja Bem-vindo(a)!
@@ -25,7 +31,7 @@
 
     
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Quantidade de Visitas</b></p>  
     <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-mouse-de-computador-0.gif" alt="GIF" width="200" height="150" style="float: right;", align="right">    
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HadassaKiria}/count.svg" /></p> 
 <br>
