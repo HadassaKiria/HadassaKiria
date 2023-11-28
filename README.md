@@ -1,13 +1,13 @@
-## Olá! Eu sou Hadassa Kiria! 👋
-
 <div align="center">
+    <p align="left" style="margin-top: 50px;">
+        <h1> Olá, eu sou Hadassa Kiria!👋<p></h1>
+    </p>
     <img src="https://media4.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif?cid=ecf05e472103uwsyi8kt2uw92vu9ss70up02ye34xboc6uip&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="170" height="160" style="float: left; margin-right: 20px;">
     <p align="left" style="margin-top: 50px;">
-        <h2> Sou uma estudante de Sistemas de Informação e minha fascinação pela tecnologia cresce a cada dia!<p>
-        Seja Bem-vindo(a)!</h2>
+        <h2> Sou apaixonada por tecnologia, estou sempre explorando novas ideias e desafios no mundo da programação. Este é o meu espaço no GitHub, onde compartilho projetos, aprendizados e um pouco da minha jornada no universo da programação. <p></h2>
+        <h1> Bem-vindo ao meu Perfil!🚀✨<p></h1>
     </p>
 </div>
-
 
 ![Hadassa Kiria GitHub stats](https://github-readme-stats.vercel.app/api?username=HadassaKiria&show_icons=true&theme=dracula)
 
